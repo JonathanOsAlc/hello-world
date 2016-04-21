@@ -1,2 +1,5 @@
 # hello-world
-Example Repository
+
+Hello humans!
+
+This my first GitHub! 
