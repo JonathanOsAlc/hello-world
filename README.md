@@ -1,5 +1,4 @@
 # hello-world
-Javi es un puto maricon que chupa penes de negros.
-Hello humans!
+Hello humans! asdasd
 
 This my first GitHub! 
